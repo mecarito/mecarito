@@ -1,6 +1,6 @@
 ### Hello :punch: :exclamation:
 - Hi, I'm Peter! I'm a Software engineer with a passion for design and love contributing to open source projects.
-- :heart: Angular
+- :heart: Angular :blush: Nodejs
 
 ### Get in touch :earth_africa:
 -  Email: mecarito8@gmail.com
