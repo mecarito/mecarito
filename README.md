@@ -1,5 +1,9 @@
-### Hi there 👋
-### :blush:
+### Hello :punch: :exclamation:
+### Hi, I'm Peter! I'm a Software engineer with a passion for design and love contributing to open source projects.
+### :heart: Angular
+
+### Get in touch :earth_africa:
+### Email: mecarito8@gmail.com
 
 <!--
 **mecarito/mecarito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
