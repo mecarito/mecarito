@@ -1,5 +1,5 @@
 ### Hello :punch: :exclamation:
-- Hi, I'm Peter! I'm a Software engineer with a passion for design and love contributing to open source projects.
+- Hi, I'm Alpha! I'm a Software engineer with a passion for design and love contributing to open source projects.
 - :heart: Angular
 - :blush: Nodejs
 
