@@ -1,7 +1,7 @@
 ### Hello :punch: :exclamation:
 - Hi, I'm mecarito! I'm a Software Engineer using technology to improve people's lives 
 
-### 🔭 I’m currently working on a javascript SDK
+# 🔭 I’m currently working on a javascript SDK
 - 🌱 I’m currently learning serveless architecture
 - 💬 Ask me about kubernetes and docker
 - :heart: Angular
