@@ -1,8 +1,13 @@
 ### Hello :punch: :exclamation:
-- Hi, I'm Mecarito! I'm a Software engineer with a passion for design and love contributing to open source projects.
+- Hi, I'm mecarito! I'm a Software Engineer using technology to improve people's lives 
+
+### 🔭 I’m currently working on a javascript SDK
+- 🌱 I’m currently learning serveless architecture
+- 💬 Ask me about kubernetes and docker
 - :heart: Angular
 - :blush: Nodejs
-- :blush: kubernetes and docker
+
+
 
 ### Get in touch :earth_africa:
 -  Email: mecarito8@gmail.com
