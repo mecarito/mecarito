@@ -1,5 +1,5 @@
 # Hello :punch: :exclamation:
-- Hi, I'm mecarito! I'm a Software Engineer using technology to transform people's lives 
+- Hi, I'm mecarito! a Software Engineer using technology to transform people's lives 
 
 #### 🔭 I’m currently working on a javascript SDK
 - 🌱 I’m currently learning serveless architecture
