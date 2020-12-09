@@ -11,7 +11,7 @@
 
 
 ### Get in touch :earth_africa:
--  work:  business@mecar.tech
+-  work:  peter@mecar.tech
 -  personal: mecarito8@gmail.com
 
 <!--
