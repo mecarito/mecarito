@@ -1,5 +1,4 @@
 # Hi there,
-## portfolio: mecar.tech
 - I'm a Software Engineer using technology to transform people's lives 
 
 #### 🔭 I’m currently working on a payment gateway
