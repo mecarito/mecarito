@@ -1,8 +1,8 @@
 # Hi there,
 ## portfolio: mecar.tech
-- I'm Peter Mecar, a Software Engineer using technology to transform people's lives 
+- I'm a Software Engineer using technology to transform people's lives 
 
-#### 🔭 I’m currently working on a javascript SDK
+#### 🔭 I’m currently working on a payment gateway
 - 🌱 I’m currently learning serveless architecture
 - 💬 Ask me about kubernetes and docker
 - :heart: Angular
