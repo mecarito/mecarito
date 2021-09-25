@@ -1,10 +1,10 @@
-# Hi there,
+# Hello,
 - I'm a Software Engineer using technology to transform people's lives 
 
-#### 🔭 I’m currently working on a payment gateway
+#### ⚡ I’m currently working on building a design system.
 - 🌱 I’m currently learning serveless architecture
 - 💬 Ask me about kubernetes and docker
-- :heart: Angular
+- :heart: React, Nextjs
 - :blush: Nodejs
 
 
