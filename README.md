@@ -10,7 +10,6 @@
 
 
 ### Get in touch :earth_africa:
--  work:  peter@mecar.tech
 -  personal: mecarito8@gmail.com
 
 <!--
