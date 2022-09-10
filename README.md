@@ -1,9 +1,7 @@
-# Hello,
+# Hi there, I'm Peter mecar! :wave:
 - I'm a Software Engineer using technology to transform people's lives 
 
 #### ⚡ I’m currently working on building a design system.
-- 🌱 I’m currently learning serveless architecture
-- 💬 Ask me about kubernetes and docker
 - :heart: React, Nextjs
 - :blush: Nodejs
 
