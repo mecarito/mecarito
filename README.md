@@ -2,7 +2,7 @@
 - I'm a Software Engineer using technology to transform people's lives 
 
 #### ⚡ I’m currently working on building a design system.
-- :heart: React, Nextjs
+- :heart: React, Nextjs, Angular
 - :blush: Nodejs
 
 
